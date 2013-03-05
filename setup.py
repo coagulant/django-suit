@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django-suit',
-    version=0.1.5dev,
+    version='0.1.5dev',
     description='Modern theme for Django admin interface.',
     author='Kaspars Sprogis (darklow)',
     author_email='info@djangosuit.com',
